@@ -17,7 +17,7 @@ I am a web developer, focusing on JavaScript and the MERN stack. I find enjoymen
 ---
 ### Contribution Stats
 
-<div style="text-align: center">[![Garrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwarzecha&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Garrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwarzecha&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwarzecha&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
