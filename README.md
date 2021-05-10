@@ -1,5 +1,5 @@
 ### Hey there 👋 , my is is Garrett, 
-I am a web developer, focusing on JavaScript and the MERN stack. I find enjoyment in building new things, learning all that I can about web development, listening to records, and talking to other developers and code-minded individuals!
+I am a web developer, focusing on JavaScript and the MERN stack. I find enjoyment in building new things, learning all that I can about web development, listening to records while drawing cat portraits, and talking to other developers and code-minded individuals!
 
 ### 📫 Contact me at: gmwarzecha@gmail.com
 
@@ -17,7 +17,7 @@ I am a web developer, focusing on JavaScript and the MERN stack. I find enjoymen
 ---
 ### Contribution Stats
 
-[![Garrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwarzecha&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align: center">[![Garrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwarzecha&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwarzecha&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
