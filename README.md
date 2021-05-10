@@ -1,5 +1,5 @@
 ### Hey there 👋 , my is is Garrett, 
-I am a web developer, focusing on JavaScript and the MERN stack. I love making time to building new things, learning all that I can about web development, and talking to other developers and code-minded individuals!
+I am a web developer, focusing on JavaScript and the MERN stack. I find enjoyment in building new things, learning all that I can about web development, listening to records, and talking to other developers and code-minded individuals!
 
 ### 📫 Contact me at: gmwarzecha@gmail.com
 
