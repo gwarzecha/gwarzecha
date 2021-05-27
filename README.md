@@ -13,7 +13,7 @@ I am a web developer, focusing on JavaScript and the MERN stack. I find enjoymen
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
 ---
 ### Contribution Stats
 
