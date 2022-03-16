@@ -1,4 +1,4 @@
-### Hey there 👋 , my is is Garrett, 
+### Hey there 👋 , my name is Garrett, 
 I am a web developer, focusing on JavaScript and the MERN stack. I find enjoyment in building new things, learning and growing my skills, listening to records while drawing cat portraits, and interacting with other developers!
 
 ### 📫 Contact me at: gmwarzecha@gmail.com
