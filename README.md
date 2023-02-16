@@ -1,5 +1,5 @@
 ### Hey there 👋 , my name is Garrett, 
-I am a web developer, focusing on JavaScript and the MERN stack. I find enjoyment in building new things, learning and growing my skills, listening to records while drawing cat portraits, and interacting with other developers!
+I am a web developer, focused on Javascript. I find enjoyment in building new things, learning and honing my skills, and listening to records while drawing cat portraits.
 
 ### 📫 Contact me at: gmwarzecha@gmail.com
 
@@ -12,13 +12,10 @@ I am a web developer, focusing on JavaScript and the MERN stack. I find enjoymen
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars logo" width="50" height="50" />
+
 ---
 ---
 ### Contribution Stats
